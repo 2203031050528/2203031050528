@@ -16,7 +16,7 @@ Feel free to connect with me on social media:
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
 <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" alt="X" width="40" height="40">
 </a>
 <a href="https://www.linkedin.com/in/your_linkedin_handle" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
