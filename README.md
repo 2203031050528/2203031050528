@@ -13,11 +13,14 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**. Curre
 Feel free to connect with me on social media:
 
 <a href="https://www.instagram.com/your_instagram_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
-
-!Twitter
-!LinkedIn
+<a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40">
+</a>
+<a href="https://www.linkedin.com/in/your_linkedin_handle" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
+</a>
 
 ## Projects
 Here are some of the projects I've been working on:
