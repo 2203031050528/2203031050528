@@ -18,9 +18,9 @@ Feel free to connect with me on social media:
 
 ## Projects
 Here are some of the projects I've been working on:
-- 🌟 Project 1: Brief description of project 1.
-- 🌟 Project 2: Brief description of project 2.
-- 🌟 Project 3: Brief description of project 3.
+- 🌟 **Netflix Clone**: Developed a clone of Netflix using React and Firebase, featuring user authentication, movie browsing, and streaming functionalities. Project Link
+- 🌟 **Spotify Clone**: Created a Spotify clone using Node.js and React, including features like music streaming, playlist creation, and user profiles. Project Link
+- 🌟 **Twitter Clone**: Built a Twitter clone with real-time updates, tweet posting, and user interactions using Django and React. Project Link
 
 ## Skills
 - 🐍 Python
