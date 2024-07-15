@@ -12,7 +12,10 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**. Curre
 ## How to Reach Me
 Feel free to connect with me on social media:
 
-!Instagram
+<a href="https://www.instagram.com/your_instagram_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
 !Twitter
 !LinkedIn
 
