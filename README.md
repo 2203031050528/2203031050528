@@ -39,7 +39,7 @@ Here are some of the projects I've been working on:
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## GitHub Stats
-!Rahul's GitHub stats
+https://github-readme-stats.vercel.app/api?username=2203031050528 &show_icons=true&theme=radical
 
 ## Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
