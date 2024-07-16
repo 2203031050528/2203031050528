@@ -13,12 +13,13 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 
 ## 📫 How to Reach Me
 
-<a href="https://www.instagram.com/rahuljangir9643" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
-</a>
 <a href="https://www.linkedin.com/in/rahul-jangir-7649312b9" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
 </a>
+<a href="https://www.instagram.com/rahuljangir9643" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
+</a>
+
 <a href="https://x.com/Rahuljangir4368" target="_blank">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" color="#000000" fill="none">
     <rect width="24" height="24" fill="#000000"/>
