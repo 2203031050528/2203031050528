@@ -29,7 +29,7 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 - Management Skills 📋
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=2203031050528 &show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 Feel free to connect with me on the above platforms. I am always open to discussions about AI, ML, and collaboration on exciting projects!
