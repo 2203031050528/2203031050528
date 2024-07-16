@@ -12,14 +12,15 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 - Model Evaluation and Optimization
 
 ## 📫 How to Reach Me
-<a href="https://www.instagram.com/your_instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+
+<a href="https://www.instagram.com/your_instagram" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
-<a href="https://twitter.com/your_twitter">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
 </a>
-<a href="https://www.linkedin.com/in/your_linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://twitter.com/your_x" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.png" alt="X" width="40" height="40">
 </a>
 
 ## 🛠️ Skills
@@ -28,7 +29,7 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 - Management Skills 📋
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=2203031050528&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 Feel free to connect with me on the above platforms. I am always open to discussions about AI, ML, and collaboration on exciting projects!
