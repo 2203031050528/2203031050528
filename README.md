@@ -7,6 +7,7 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 - **Machine Learning** 📊
 
 ## 📚 Currently Learning
+- MERN Stack Development
 - Machine Learning Algorithms
 - Data Science Techniques
 - Model Evaluation and Optimization
