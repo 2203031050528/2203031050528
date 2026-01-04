@@ -1,16 +1,76 @@
 # 👋 Hi, I'm Rahul Jangir
 
-I am a passionate individual interested in Artificial Intelligence (AI) and Machine Learning (ML). Currently, I am in the process of learning and exploring various facets of ML.
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-⚙️-blue" />
+  <img src="https://img.shields.io/badge/System%20Design-🏗️-orange" />
+  <img src="https://img.shields.io/badge/DevOps-☁️-green" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-🤖-purple" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,docker,aws,linux,git" />
+</p>
+
+I am a **Backend Developer** with a strong interest in **System Design, DevOps**, and scalable backend architectures. Alongside backend engineering, I actively explore **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build intelligent, data-driven systems.
+
+---
 
 ## 🧠 Interests
-- **Artificial Intelligence** 🤖
-- **Machine Learning** 📊
 
-## 📚 Currently Learning
-- MERN Stack Development
-- Machine Learning Algorithms
-- Data Science Techniques
-- Model Evaluation and Optimization
+* Backend Engineering & API Development
+* System Design (Scalable, Distributed Systems)
+* DevOps & Cloud Infrastructure
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+
+---
+
+## 📚 Currently Learning & Working With
+
+* Node.js, Express.js, FastAPI
+* Database Design (MongoDB, PostgreSQL)
+* System Design (Scalability, Caching, Load Balancing)
+* DevOps Practices (Docker, CI/CD, Cloud Deployment)
+
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend & APIs
+
+* Node.js, Express.js, FastAPI
+* REST APIs, JWT Authentication, RBAC
+* Microservices Architecture
+
+### Databases
+
+* MongoDB, PostgreSQL
+* Database Modeling & Indexing
+
+### System Design
+
+* High-Level & Low-Level Design
+* Scalability & Load Balancing
+* Caching (Redis)
+* Message Queues (Basics)
+
+### DevOps & Cloud
+
+* Docker & Containerization
+* CI/CD Pipelines
+* Cloud Deployment (AWS basics)
+* Monitoring & Logging
+
+---
+
+## 🤝 Soft Skills
+
+* Communication Skills 🗣️
+* Leadership Skills 👥
+* Management Skills 📋
+
+---
 
 ## 📫 How to Reach Me
 
@@ -20,7 +80,6 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
 <a href="https://www.instagram.com/rahuljangir9643" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
-
 <a href="https://x.com/Rahuljangir4368" target="_blank">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" color="#000000" fill="none">
     <rect width="24" height="24" fill="#000000"/>
@@ -28,17 +87,44 @@ I am a passionate individual interested in Artificial Intelligence (AI) and Mach
   </svg>
 </a>
 
-## 🛠️ Skills
-- Communication Skills 🗣️
-- Leadership Skills 👥
-- Management Skills 📋
+---
 
-## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=2203031050528&show_icons=true&theme=radical)
+## 🚀 Featured Projects
 
-## 🔗 Connect with Me
-Feel free to connect with me on the above platforms. I am always open to discussions about AI, ML, and collaboration on exciting projects!
+### 🔹 Online Event Management Platform (Townscript-like)
+
+* Full-stack backend system using FastAPI & MongoDB
+* Role-based access (Admin, Organizer, User)
+* Ticket booking, payments & payouts
+* Scalable system design
+
+### 🔹 AI-based Career Counseling System
+
+* Backend lead & project owner
+* Recommendation logic using ML
+* Secure APIs & data handling
 
 ---
 
-Thank you for visiting my profile! 🌟
+## 📈 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=2203031050528\&show_icons=true\&theme=radical)
+
+---
+
+## 🎯 Placement Focus
+
+**Open to roles:** Backend Developer | Software Engineer | DevOps Engineer
+
+**Core Keywords (ATS Optimized):**
+Backend Development, REST APIs, Node.js, FastAPI, MongoDB, PostgreSQL, System Design, Scalability, Load Balancing, Caching, Docker, CI/CD, Cloud Computing, AWS, Authentication, Microservices, DevOps, Linux
+
+---
+
+## 🔗 Connect with Me
+
+I’m always open to discussions around **backend engineering, system design, DevOps, AI/ML**, and collaborating on impactful real-world projects.
+
+---
+
+⭐ *Thank you for visiting my profile!*
